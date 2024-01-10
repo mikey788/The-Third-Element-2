@@ -3,7 +3,6 @@
 """
 The Third Element
 ICS3U Final Project
-Paul Krishnamurthy 2015
 """
 
 from pygame import *

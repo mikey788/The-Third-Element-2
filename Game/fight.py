@@ -1,5 +1,4 @@
 # fight.py
-# Paul Krishnamurthy 2015
 # Main fighting class
 
 # The Third Element

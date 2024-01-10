@@ -1,5 +1,4 @@
 # treasure.py
-# Paul Krishnamurthy 2015
 # Class that contains treasures and menu
 
 # The Third Element

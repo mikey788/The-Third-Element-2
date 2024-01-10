@@ -1,5 +1,4 @@
 # chest.py
-# Paul Krishnamurthy 2015
 # Handle treasure chest actions
 
 # The Third Element

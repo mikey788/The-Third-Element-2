@@ -1,4 +1,4 @@
-# Paul Krishnamurthy 2015
+
 
 # The Third Element
 # ICS3U Final Project
@@ -39,10 +39,6 @@ Maps
 ====
 (Rondo of Swords) http://www.spriters-resource.com/ds/rondoofswords/
 (Final Fantasy) Main World Map
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Feel free to contact me at paul@paulkr.com if you have any concerns :)
 
 """)
 input("Exit")

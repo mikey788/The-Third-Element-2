@@ -1,5 +1,4 @@
 # player.py
-# Paul Krishnamurthy 2015
 # Main player class
 
 # The Third Element

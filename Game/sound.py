@@ -1,5 +1,4 @@
 # sound.py
-# Paul Krishnamurthy 2015
 # Plays sound effects
 
 # The Third Element

@@ -1,5 +1,4 @@
 # message.py
-# Paul Krishnamurthy 2015
 # Class to display messages
 
 # The Last Element

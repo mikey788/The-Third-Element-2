@@ -1,5 +1,4 @@
 # fade.py
-# Paul Krishnamurthy 2015
 # Transitions from scene to scene
 
 # The Third Element

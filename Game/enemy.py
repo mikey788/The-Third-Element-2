@@ -1,5 +1,4 @@
 # enemy.py
-# Paul Krishnamurthy 2015
 # Enemy class
 
 # The Third Element

@@ -1,5 +1,4 @@
 # story.py
-# Paul Krishnamurthy 2015
 # Story line class
 
 # The Last Element
